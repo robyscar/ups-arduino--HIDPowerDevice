@@ -6,6 +6,12 @@ or perform power on/power off operations as necessary for your project.
 
 For more information about USB HID specs please read https://www.usb.org/sites/default/files/pdcv11.pdf
 
+github.com/networkupstools
+
+https://networkupstools.org/
+
+https://networkupstools.org/download.html
+
 == Supported Arduinos ==
 * Leonardo
 * (Pro)Micro
